@@ -1,0 +1,29 @@
+reset_test.o: reset_test.c e:\mingw\include\stdio.h \
+ e:\mingw\include\_mingw.h e:\mingw\include\msvcrtver.h \
+ e:\mingw\include\w32api.h e:\mingw\include\sdkddkver.h \
+ e:\mingw\lib\gcc\mingw32\4.9.3\include\stddef.h \
+ e:\mingw\include\sys/types.h \
+ e:\mingw\lib\gcc\mingw32\4.9.3\include\stdarg.h \
+ e:\mingw\include\stdlib.h ../src/samplerate.h util.h
+
+e:\mingw\include\stdio.h:
+
+e:\mingw\include\_mingw.h:
+
+e:\mingw\include\msvcrtver.h:
+
+e:\mingw\include\w32api.h:
+
+e:\mingw\include\sdkddkver.h:
+
+e:\mingw\lib\gcc\mingw32\4.9.3\include\stddef.h:
+
+e:\mingw\include\sys/types.h:
+
+e:\mingw\lib\gcc\mingw32\4.9.3\include\stdarg.h:
+
+e:\mingw\include\stdlib.h:
+
+../src/samplerate.h:
+
+util.h:

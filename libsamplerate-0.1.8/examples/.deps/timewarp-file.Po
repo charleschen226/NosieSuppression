@@ -1,0 +1,52 @@
+timewarp-file.o: timewarp-file.c ../src/config.h e:\mingw\include\stdio.h \
+ e:\mingw\include\_mingw.h e:\mingw\include\msvcrtver.h \
+ e:\mingw\include\w32api.h e:\mingw\include\sdkddkver.h \
+ e:\mingw\lib\gcc\mingw32\4.9.3\include\stddef.h \
+ e:\mingw\include\sys/types.h \
+ e:\mingw\lib\gcc\mingw32\4.9.3\include\stdarg.h \
+ e:\mingw\include\stdlib.h e:\mingw\include\unistd.h \
+ e:\mingw\include\io.h e:\mingw\include\sys\types.h \
+ e:\mingw\include\stdint.h e:\mingw\include\process.h \
+ e:\mingw\include\getopt.h e:\mingw\include\string.h \
+ e:\mingw\include\strings.h e:\mingw\include\wchar.h \
+ e:\mingw\include\math.h
+
+../src/config.h:
+
+e:\mingw\include\stdio.h:
+
+e:\mingw\include\_mingw.h:
+
+e:\mingw\include\msvcrtver.h:
+
+e:\mingw\include\w32api.h:
+
+e:\mingw\include\sdkddkver.h:
+
+e:\mingw\lib\gcc\mingw32\4.9.3\include\stddef.h:
+
+e:\mingw\include\sys/types.h:
+
+e:\mingw\lib\gcc\mingw32\4.9.3\include\stdarg.h:
+
+e:\mingw\include\stdlib.h:
+
+e:\mingw\include\unistd.h:
+
+e:\mingw\include\io.h:
+
+e:\mingw\include\sys\types.h:
+
+e:\mingw\include\stdint.h:
+
+e:\mingw\include\process.h:
+
+e:\mingw\include\getopt.h:
+
+e:\mingw\include\string.h:
+
+e:\mingw\include\strings.h:
+
+e:\mingw\include\wchar.h:
+
+e:\mingw\include\math.h:

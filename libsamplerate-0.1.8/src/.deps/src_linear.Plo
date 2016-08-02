@@ -1,0 +1,49 @@
+src_linear.lo: src_linear.c e:\mingw\include\stdio.h \
+ e:\mingw\include\_mingw.h e:\mingw\include\msvcrtver.h \
+ e:\mingw\include\w32api.h e:\mingw\include\sdkddkver.h \
+ e:\mingw\lib\gcc\mingw32\4.9.3\include\stddef.h \
+ e:\mingw\include\sys/types.h \
+ e:\mingw\lib\gcc\mingw32\4.9.3\include\stdarg.h \
+ e:\mingw\include\stdlib.h e:\mingw\include\string.h \
+ e:\mingw\include\strings.h e:\mingw\include\wchar.h config.h \
+ float_cast.h e:\mingw\include\math.h common.h \
+ e:\mingw\lib\gcc\mingw32\4.9.3\include\stdint.h \
+ e:\mingw\include\stdint.h samplerate.h
+
+e:\mingw\include\stdio.h:
+
+e:\mingw\include\_mingw.h:
+
+e:\mingw\include\msvcrtver.h:
+
+e:\mingw\include\w32api.h:
+
+e:\mingw\include\sdkddkver.h:
+
+e:\mingw\lib\gcc\mingw32\4.9.3\include\stddef.h:
+
+e:\mingw\include\sys/types.h:
+
+e:\mingw\lib\gcc\mingw32\4.9.3\include\stdarg.h:
+
+e:\mingw\include\stdlib.h:
+
+e:\mingw\include\string.h:
+
+e:\mingw\include\strings.h:
+
+e:\mingw\include\wchar.h:
+
+config.h:
+
+float_cast.h:
+
+e:\mingw\include\math.h:
+
+common.h:
+
+e:\mingw\lib\gcc\mingw32\4.9.3\include\stdint.h:
+
+e:\mingw\include\stdint.h:
+
+samplerate.h:
